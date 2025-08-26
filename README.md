@@ -16,7 +16,6 @@
 **The concept behind Trakveil is simple yet effective.
 Instead of harvesting credentials through phishing pages, it demonstrates how a fake website can trick users into granting location access much like legitimate location based services.
 Trakveil Hosts a fake website which asks for Location Permission and if the target allows it, we can get :**
-
 * Longitude
 * Latitude
 * Accuracy
@@ -24,8 +23,7 @@ Trakveil Hosts a fake website which asks for Location Permission and if the targ
 * Direction - Only available if user is moving
 * Speed - Only available if user is moving
 
-**Along with Location Information we also get Device Information without any permissions :**
-
+**Along with Location Information we also get Device Information without any permissions:**
 * Unique ID using Canvas Fingerprinting
 * Device Model - Not always available
 * Operating System
@@ -46,7 +44,6 @@ Trakveil Hosts a fake website which asks for Location Permission and if the targ
 ## Templates
 
 **Available Templates :**
-
 * NearYou
 * Google Drive (Suggested by @Akaal_no_one)
 * WhatsApp (Suggested by @Dazmed707)
