@@ -42,3 +42,24 @@ Along with Location Information we also get **Device Information** without any p
 **Automatic IP Address Reconnaissance** is performed after the above information is received.
 
 **This tool is a Proof of Concept and is for Educational Purposes Only, Trakveil shows what data a malicious website can gather about you and your devices and why you should not click on random links and allow critical permissions such as Location etc.**
+
+## Templates
+
+**Available Templates :**
+
+* NearYou
+* Google Drive (Suggested by @Akaal_no_one)
+* WhatsApp (Suggested by @Dazmed707)
+* Telegram
+* Zoom (Made by @a7maadf)
+* Google reCAPTCHA (Made by @MrEgyptian)
+
+## Tested On :
+
+* Kali Linux
+* BlackArch Linux
+* Ubuntu
+* Fedora
+* Kali Nethunter
+* Termux
+* Parrot OS
