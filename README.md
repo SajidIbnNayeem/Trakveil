@@ -13,10 +13,9 @@
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
 </p>
 
-The concept behind Trakveil is simple yet effective.
+**The concept behind Trakveil is simple yet effective.
 Instead of harvesting credentials through phishing pages, it demonstrates how a fake website can trick users into granting location access much like legitimate location based services.
-
-Trakveil Hosts a fake website which asks for Location Permission and if the target allows it, we can get :
+Trakveil Hosts a fake website which asks for Location Permission and if the target allows it, we can get :**
 
 * Longitude
 * Latitude
