@@ -63,3 +63,18 @@ Along with Location Information we also get **Device Information** without any p
 * Kali Nethunter
 * Termux
 * Parrot OS
+
+## Installation
+
+### Kali Linux / Arch Linux / Ubuntu / Fedora / Parrot OS / Termux
+
+```bash
+git clone https://github.com/SajidIbnNayeem/Trakveil.git
+cd Trakveil/
+chmod +x install.sh
+./install.sh
+python3 trakveil.py
+```
+
+
+
