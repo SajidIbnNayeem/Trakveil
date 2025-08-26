@@ -24,7 +24,7 @@ Trakveil Hosts a fake website which asks for Location Permission and if the targ
 * Direction - Only available if user is moving
 * Speed - Only available if user is moving
 
-Along with Location Information we also get **Device Information** without any permissions :
+**Along with Location Information we also get Device Information without any permissions :**
 
 * Unique ID using Canvas Fingerprinting
 * Device Model - Not always available
