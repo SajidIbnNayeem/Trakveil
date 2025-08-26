@@ -74,7 +74,9 @@ python3 trakveil.py
 ```
 # Screenshots
 <img width="1345" height="675" alt="Screenshot From 2025-08-26 15-17-15" src="https://github.com/user-attachments/assets/8fa1e359-0a78-41aa-98c9-05135b4e42a3" />
-![Trakveil 2025-08-26 at 3 33 47 PM](https://github.com/user-attachments/assets/171f9541-332e-404e-b1b4-aa163780e818)
+
+![WhatsApp Image 2025-08-26 at 3 33 47 PM](https://github.com/user-attachments/assets/4a08af43-c638-4336-9c83-94172160a614)
+
 <img width="1302" height="427" alt="Screenshot From 2025-08-26 15-19-50" src="https://github.com/user-attachments/assets/b99d37d4-cfd8-4b92-b87e-192c8a7b3c8a" />
 
 ### Connect with me:
